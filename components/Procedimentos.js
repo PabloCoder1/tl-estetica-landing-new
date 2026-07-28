@@ -16,7 +16,7 @@ export default function Procedimentos() {
           <div className="rule" />
           <p>
             Cada indicação nasce de uma conversa sobre a sua rotina, seus hábitos
-            e objetivos. E os valores estão todos aqui, sem surpresa.
+            e objetivos.
           </p>
         </div>
 
