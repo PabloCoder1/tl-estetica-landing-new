@@ -27,6 +27,7 @@ export default function Footer() {
               {linha}
             </a>
           ))}
+          <p className="footer-tag">{CONTATO.referencia}</p>
         </div>
 
         <div>
